@@ -51,3 +51,5 @@ pub fn distribute_rewards(ctx: Context<DistributeRewards>, amount: u64) -> Resul
     
     Ok(())
 }
+
+// to be reworked in full
