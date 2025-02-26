@@ -126,3 +126,5 @@ fn calculate_base_reward(stake_amount: u64, time_period: u64, apy: u8) -> u64 {
     
     reward_amount
 }
+
+// to be reworked in full
