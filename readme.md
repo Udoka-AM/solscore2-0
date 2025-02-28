@@ -44,7 +44,7 @@ FPL ID import and verification system
 Staking mechanism for placing bets on football events
 Reward distribution based on real-time event outcomes
 Scheduled unstaking with defined withdrawal periods
-Fee and penalty system for early withdrawals
+Fee and penalty system for early withdrawals.
 
 #### Technical Implementation
 SolScore leverages Solana's high-performance blockchain to ensure:
