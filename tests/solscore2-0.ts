@@ -1,7 +1,7 @@
 import * as anchor from '@coral-xyz/anchor';
 import { Program } from '@coral-xyz/anchor';
 import { Solscore } from '../target/types/solscore';
-import { expect } from 'chai';
+// import { expect } from 'chai';
 import { PublicKey, Keypair, LAMPORTS_PER_SOL, Transaction } from '@solana/web3.js';
 import { TOKEN_PROGRAM_ID, createMint, getOrCreateAssociatedTokenAccount, mintTo } from '@solana/spl-token';
 
