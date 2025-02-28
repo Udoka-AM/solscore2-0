@@ -28,4 +28,16 @@ pub enum ErrorCode {
     
     #[msg("Too early to claim rewards")]
     TooEarlyToClaim,
+
+    #[msg("Invalid reward parameter")]
+    InvalidRewardParameter,
+    
+    #[msg("Invalid treasury parameter")]
+    InvalidTreasuryParameter,
+    
+    #[msg("Invalid deposit amount")]
+    InvalidDepositAmount,
+    
+    #[msg("Exceeds withdrawal limit")]
+    ExceedsWithdrawalLimit,
 }
