@@ -16,11 +16,11 @@ Maintains real-time data integration with the Fantasy Premier League ecosystem
 
 #### 2. Stake Program
 
-Enables users to create stake positions using SOL
-Manages deposit and withdrawal functions
-Creates and maintains stake Program Derived Accounts (PDAs)
-Enforces strategic lock periods and early withdrawal penalties
-Tracks stake amounts and durations for reward calculations
+Enables users to create stake positions using SOL.
+Manages deposit and withdrawal functions.
+Creates and maintains stake Program Derived Accounts (PDAs).
+Enforces strategic lock periods and early withdrawal penalties.
+Tracks stake amounts and durations for reward calculations.
 
 #### 3. Reward Program
 
