@@ -97,5 +97,5 @@ Integration with other fantasy sports platforms
 
 # Conclusion
 SolScore represents an exciting fusion of fantasy sports analytics and blockchain technology. 
-By contributing to this project, you'll be helping to shape the future of decentralized prediction markets and creating new opportunities for sports enthusiasts in the Web3 ecosystem.
+By contributing to this project, you'll help me shape the future of decentralized prediction markets and create new opportunities for sports enthusiasts in the Web3 ecosystem.
 Join us in building the next generation of fantasy sports prediction platforms.
