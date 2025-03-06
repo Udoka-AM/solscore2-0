@@ -41,9 +41,9 @@ The initial release of SolScore provides the following features:
 
 Wallet integration for connecting Solana wallets
 FPL ID import and verification system
-Staking mechanism for placing bets on football events
+The staking mechanism for placing bets on football events
 Reward distribution based on real-time event outcomes
-Scheduled unstaking with defined withdrawal periods
+Scheduled un-staking with defined withdrawal periods
 Fee and penalty system for early withdrawals.
 
 #### Technical Implementation
@@ -51,7 +51,7 @@ SolScore leverages Solana's high-performance blockchain to ensure:
 
 #### Low transaction fees
 Near-instant finality
-Scalable infrastructure for large user base
+Scalable infrastructure for a large user base
 Secure on-chain settlement of rewards
 
 The platform utilizes Program Derived Accounts (PDAs) to maintain state and ensure secure, deterministic account creation and management.
