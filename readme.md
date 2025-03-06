@@ -1,7 +1,8 @@
 # SolScore - FPL-Based Web3 Prediction Platform Documentation
 
 ### Overview
-SolScore is an innovative Web3 prediction platform that integrates Fantasy Premier League (FPL) data with blockchain technology, allowing users to stake cryptocurrency on real-time football events and earn rewards based on their FPL performance.
+SolScore is a Web3 prediction platform that integrates Fantasy Premier League (FPL) data with blockchain technology, allowing users to stake cryptocurrency on real-time football events and earn rewards based on their FPL performance.
+
 Built on the Solana blockchain, SolScore creates a novel prediction market where users can leverage their fantasy football knowledge to earn crypto rewards, combining fantasy sports' excitement with decentralised finance's financial opportunities.
 
 ### Core Architecture
